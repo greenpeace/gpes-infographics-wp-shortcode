@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Responsive SVG infographics UI
  * Plugin URI: https://github.com/greenpeace/gpes-infographics-wp-shortcode
- * Version: 0.1
+ * Version: 0.2
  * Description: Adds an GUI to use the [responsive_svg_infograph] shortcode. This plugin requires the plugin Shortcake (Shortcode UI) and the plugin "Add responsive SVG infographics"
  * Author: Osvaldo Gago
  * Author URI: https://osvaldo.pt

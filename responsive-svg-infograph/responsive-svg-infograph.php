@@ -1,7 +1,7 @@
 <?php
 /**
  * @package responsive_svg_infograph
- * @version 0.1
+ * @version 0.2
  */
 /*
 Plugin Name: Add responsive SVG infographics
@@ -10,7 +10,7 @@ Description: Shortcode to add responsive SVG infographics. For example: <code>[r
 Author: Osvaldo Gago
 Text Domain: responsive-svg-infograph
 Domain Path: /languages
-Version: 0.1 
+Version: 0.2 
 Author URI: https://osvaldo.pt
 */
 
