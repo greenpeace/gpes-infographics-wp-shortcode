@@ -1,0 +1,54 @@
+# Copyright (C) 2018 Add responsive SVG infographics
+# This file is distributed under the same license as the Add responsive SVG infographics package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Add responsive SVG infographics 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/responsive-svg-"
+"infograph\n"
+"POT-Creation-Date: 2018-11-10 10:39:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-11-10 11:43+0100\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Add responsive SVG infographics"
+msgstr "Añadir infografías responsive en SVG"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/greenpeace/gpes-infographics-wp-shortcode"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Shortcode to add responsive SVG infographics. For example: "
+"<code>[responsive_svg_infograph id='justAnExample' xl='https://storage."
+"googleapis.com/gpes-static/plasticos/plasticos-1024.svg' l='https://storage."
+"googleapis.com/gpes-static/plasticos/plasticos-730.svg' m='https://storage."
+"googleapis.com/gpes-static/plasticos/plasticos-510.svg' s='https://storage."
+"googleapis.com/gpes-static/plasticos/plasticos-360.svg']</code> &bull; <a "
+"target=\"_blank\" href=\"https://greenpeace.github.io/gpes-visualisations/"
+"sizes-formats-files.html\">More information about SVG infographics</a>"
+msgstr ""
+"Shortcode para añadir infografías response en SVG. Por ejemplo: "
+"<code>[responsive_svg_infograph id=‘soloUnEjemplo’ xl=‘https://storage."
+"googleapis.com/gpes-static/plasticos/plasticos-1024.svg' l=‘https://storage."
+"googleapis.com/gpes-static/plasticos/plasticos-730.svg’ m=‘https://storage."
+"googleapis.com/gpes-static/plasticos/plasticos-510.svg’ s=‘https://storage."
+"googleapis.com/gpes-static/plasticos/plasticos-360.svg’]</code> &bull; <a "
+"target=“_blank” href=“https://greenpeace.github.io/gpes-visualisations/"
+"sizes-formats-files.html”>Más información sobre infografías response en "
+"SVG</a>"
+
+#. Author of the plugin/theme
+msgid "Osvaldo Gago"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://osvaldo.pt"
+msgstr ""
