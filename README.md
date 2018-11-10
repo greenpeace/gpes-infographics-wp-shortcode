@@ -2,6 +2,14 @@
 
 With this Wordpress plugin you can add a responsive svg infographic to any page or post.
 
+## About SVG infographics
+
+This plugin was created to work with Greenpeace Spain generic SVG sizes and methodology. For more information check:
+
+1. [Guide to create visualisations for our sites](https://greenpeace.github.io/gpes-visualisations/index.html)
+2. [Infographics](https://greenpeace.github.io/gpes-visualisations/infograph.html)
+3. [Sizes, formats and file types](https://greenpeace.github.io/gpes-visualisations/sizes-formats-files.html)
+
 ## How to use
 
 Copy-paste the code bellow to your posts and pages.
